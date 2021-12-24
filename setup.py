@@ -29,6 +29,7 @@ setup(
         "pathlib==1.0.1",
         "pandas==1.3.5",
         "numpy==1.21.5",
+        "openpyxl==3.0.9",
         "jupyter",
         "jupyter-dash==0.4.0",
     ],
