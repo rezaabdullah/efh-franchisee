@@ -1,2 +1,2 @@
 # efh-franchisee
-Analysis of the franchisees for eFarmers' Hub platform. The analysis is based on the requirements set during the network managers' workshop.
+Analysis of the franchisees for eFarmers' Hub platform. The analysis is based on the requirements set during the network managers' workshop. For this analysis, data of GBK Enterprise will be analyzed and use for data visualization.
